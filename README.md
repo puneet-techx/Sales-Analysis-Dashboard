@@ -13,6 +13,7 @@ The dashboard uses dynamic slicers to filter data by Product, Month, GST Rate, F
 
 
 
+
 📊 Key Visuals
 
 Form Wise: 100% sales from JK Enterprise (69,743.25)
@@ -28,6 +29,7 @@ Sales concentrated in a single firm and region
 Clear visibility of tax distribution
 
 🚀 Highlights
+
 Fully interactive with real-time updates
 Clean and user-friendly design
 Built using Pivot Tables, Charts, and Slicers
